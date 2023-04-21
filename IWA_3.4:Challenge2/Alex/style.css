@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left:3rem;
+    margin-right: 3rem;
+}
+
+#alex{
+    font-size: 3rem;
+    font-weight: 600;
+    margin-right: 2rem;
+}
+
+ul li{
+    list-style: none; 
+}
